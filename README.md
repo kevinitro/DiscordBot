@@ -7,6 +7,6 @@ I used discord.py and followed a tutorial series for the project and there are t
 
 "ping" responds "pong" as well as the latency and 8ball randomly generates some 8ball quote. 
 
-I have not been working on this recently but I as the filename suggests, I could've changed the 8ball function to display random jokes. 
+I have not been working on this recently but as the filename suggests, I could've changed the 8ball function to display random jokes. 
 
 I learned async from this project as well as what accessing APIs might be like.
